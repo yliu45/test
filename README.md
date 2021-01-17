@@ -1,6 +1,6 @@
 # test
 
-just to add a comment.
+just to add a comment, a small change.
 
 a new branch
 
