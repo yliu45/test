@@ -1,8 +1,7 @@
 # test
 
-main branch 
 
-just to add a comment, main change.
+just to add a comment, resolve conflict change.
 
 a new branch
 
